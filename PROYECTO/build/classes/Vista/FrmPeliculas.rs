@@ -1,0 +1,2 @@
+vista.FrmPeliculas
+Vista.NewClass

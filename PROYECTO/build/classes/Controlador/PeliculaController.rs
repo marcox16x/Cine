@@ -1,0 +1,2 @@
+controlador.PeliculaController
+Controlador.NewClass
